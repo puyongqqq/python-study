@@ -1,1 +1,2 @@
-# python-study
+# python3基本数据类型
+  # 标准数据类型
